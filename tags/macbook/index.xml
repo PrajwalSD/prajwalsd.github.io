@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>macbook on Bytes &amp; Words</title>
+    <link>https://prajwalsd.github.io/tags/macbook/</link>
+    <description>Recent content in macbook on Bytes &amp; Words</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 19 Nov 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://prajwalsd.github.io/tags/macbook/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>Good monitor for a MacBook Pro</title>
+      <link>https://prajwalsd.github.io/good-monitor-for-a-macbook-pro/</link>
+      <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://prajwalsd.github.io/good-monitor-for-a-macbook-pro/</guid>
+      <description>&lt;p&gt;I spend most of my time working on a code editor or a browser on my MacBook Pro (2017 model). Essentially all I consume at work on a computer screen is just characters mostly.&lt;/p&gt;
+&lt;p&gt;Before the COVID-19 pandemic, I never felt a need for a dedicated work setup at home, but this one didn&amp;rsquo;t seem like it was here to go anytime soon from our lives. So, I started looking for a &lt;em&gt;perfect&lt;/em&gt; companion monitor for my laptop. To me, the definition of the word &lt;em&gt;perfect&lt;/em&gt; here was apparent — it should be able to render/display text very well, like really well.&lt;/p&gt;
+&lt;p&gt;The obvious choice was to go for one of the &lt;a href=&#34;https://www.apple.com/sg_smb_5200/shop/product/HMUB2PA/A/lg-ultrafine-5k-display&#34;&gt;Apple approved 4K/5K Ultrafine family of monitors made by LG&lt;/a&gt; and not worry about anything else due to Apple&amp;rsquo;s Retina display standards. Still, my wallet didn&amp;rsquo;t like the idea of it. So, my hunt for this &lt;em&gt;perfect&lt;/em&gt; monitor continued, and after spending a week on this, I came across &lt;a href=&#34;https://www.lg.com/uk/monitors/lg-32UN880-B&#34;&gt;31.5&#39;&#39; UltraFine™ UHD 4K Ergo IPS Monitor with USB Type-C™&lt;/a&gt; monitor.&lt;/p&gt;
+&lt;p&gt;Although LG markets this monitor in the same family as the rest of the Ultrafine series monitors, the pixel density on this one is &lt;a href=&#34;https://www.displayspecifications.com/en/model/b9b81f2c&#34;&gt;~140ppi&lt;/a&gt; which falls short of Apple&amp;rsquo;s standards for a &lt;a href=&#34;https://www.macworld.co.uk/feature/retina-display-3466732/&#34;&gt;Retina display&lt;/a&gt; on a computer screen (i.e. &amp;gt;200ppi).&lt;/p&gt;
+&lt;p&gt;The build quality, USB-C, HDR10, 4K, ergonomic features, colour profiles, and the price point made the buy a bit more appealing than others in my little research. However, I was still a bit worried about the main thing I was looking for in a monitor, i.e. a monitor that can render text very well, which ultimately came down to the display panel&amp;rsquo;s pixel density for me.&lt;/p&gt;
+&lt;p&gt;I felt like I should give this monitor a try and so I bought one.&lt;/p&gt;
+&lt;p&gt;At first, I thought this was a mistake and wanted to return it right away — the text didn&amp;rsquo;t look crisp the way I wanted it. But, truth be told, everything else about this monitor was excellent and delivered on the promise. So somehow, I wanted to make this work.&lt;/p&gt;
+&lt;p&gt;macOS has &lt;a href=&#34;https://www.eizoglobal.com/support/compatibility/dpi_scaling_settings_mac_os_x/&#34;&gt;fractional scaling&lt;/a&gt;, which means your text is going to look a little blurry in most of the default resolutions available for the display, using 1x scaling on a 32-inch 4K monitor was not an option for me.&lt;/p&gt;
+&lt;p&gt;So, I started playing with different display resolutions to try and see what mimics a &amp;ldquo;good&amp;rdquo; rendering for this monitor given the distance from the eye &amp;amp; the viewing angle of my setup. After much trial &amp;amp; error, I felt 2304x1296 resolution worked very well for my setup (i.e., at 1.6666&amp;hellip; scaling factor). Oh, I used &lt;a href=&#34;https://www.thnkdev.com/QuickRes/&#34;&gt;QuickRes&lt;/a&gt; to try unlisted resolutions quite easily, by the way.&lt;/p&gt;
+&lt;p&gt;I did try the different brightness/contrast settings, but the default values always did the trick for me. I think the &amp;ldquo;Mode 4&amp;rdquo; Gamma model worked best to compensate for the overly bright whites.&lt;/p&gt;
+&lt;p&gt;I also explore various levels of Font Smoothing using a simple app called &lt;a href=&#34;https://www.fontsmoothingadjuster.com&#34;&gt;Font Smoothing Adjuster&lt;/a&gt;, and default seems to do the trick for me.&lt;/p&gt;
+&lt;p&gt;So, in short, the below did the trick for me:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Resolution set at 2304x1296 using &lt;a href=&#34;https://www.thnkdev.com/QuickRes/&#34;&gt;QuickRes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Gamma mode set on &amp;ldquo;Mode 4&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;No changes to font smoothing (left it at default)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I have been on this configuration for a while now and occasionally rant about the blurry text on a few apps, but I&amp;rsquo;m pretty happy with the current setup, and I think this is it (for now).&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    
+  </channel>
+</rss>
